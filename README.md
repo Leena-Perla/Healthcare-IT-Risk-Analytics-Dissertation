@@ -28,6 +28,8 @@ Healthcare IT projects (EHRs, HIS, CDSS) frequently fail, run over budget, or ge
 
 Power BI (DAX measures, interactive filtering, tree maps, geographic mapping) · Qualitative Content Analysis · Excel
 
+<img width="1409" height="797" alt="Screenshot 2025-09-01 165133" src="https://github.com/user-attachments/assets/31b4f777-601a-4629-9ac4-05aa299fc579" />
+
 ---
 
 MSc Business Analytics and Management Science, University of Southampton, 2024-2025

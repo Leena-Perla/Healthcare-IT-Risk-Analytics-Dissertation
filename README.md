@@ -28,6 +28,14 @@ Healthcare IT projects (EHRs, HIS, CDSS) frequently fail, run over budget, or ge
 
 Power BI (DAX measures, interactive filtering, tree maps, geographic mapping) · Qualitative Content Analysis · Excel
 
+## Dashboard
+<img width="1413" height="804" alt="Screenshot 2025-09-01 163659" src="https://github.com/user-attachments/assets/45d6b3d3-d236-4a0c-81b9-4d8e6aea88e0" />
+<img width="1416" height="804" alt="Screenshot 2025-09-01 163842" src="https://github.com/user-attachments/assets/d8b6ba9b-59f9-49a1-b215-138b0d5d3d52" />
+<img width="1419" height="803" alt="Screenshot 2025-09-01 163933" src="https://github.com/user-attachments/assets/92ae7726-01ea-423b-a7ab-174c3ad79c99" />
+<img width="1414" height="796" alt="Screenshot 2025-09-01 164052" src="https://github.com/user-attachments/assets/2dafbea7-7a22-4e23-9722-7175ae9a7be2" />
+<img width="1411" height="793" alt="Screenshot 2025-09-01 164137" src="https://github.com/user-attachments/assets/35007ddb-e3bf-4ea7-9171-8343184a227a" />
+<img width="1419" height="795" alt="Screenshot 2025-09-01 164318" src="https://github.com/user-attachments/assets/90f76d5f-aabc-4c31-89e3-e81393929077" />
+<img width="1419" height="795" alt="Screenshot 2025-09-01 164318" src="https://github.com/user-attachments/assets/e11d7cfb-bf90-491f-93af-adc99e585e6d" />
 <img width="1409" height="797" alt="Screenshot 2025-09-01 165133" src="https://github.com/user-attachments/assets/31b4f777-601a-4629-9ac4-05aa299fc579" />
 
 ---

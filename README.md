@@ -1,4 +1,4 @@
-# Healthcare IT Project Risk Analytics — MSc Dissertation
+# Healthcare IT Project Risk Analytics 
 
 A business analytics approach to identifying and categorising socio-technical risks in Healthcare IT (HIT) projects, using qualitative content analysis and an interactive Power BI dashboard.
 
@@ -40,4 +40,3 @@ Power BI (DAX measures, interactive filtering, tree maps, geographic mapping) ·
 
 ---
 
-MSc Business Analytics and Management Science, University of Southampton, 2024-2025
